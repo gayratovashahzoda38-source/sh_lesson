@@ -1,0 +1,64 @@
+.container {
+    width: 1280px;
+    height: 603px;
+    background: #000;
+
+}
+
+.wrapper {
+    display: flex;
+}
+
+.image {
+    width: 427px;
+    margin-left: 170px;
+}
+
+p {
+    color: #fff;
+
+
+}
+
+.div__img {
+    padding-top: 170px;
+    padding-left: 350px;
+
+}
+
+.text {
+
+    padding-left: 160px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center
+
+}
+
+.card__p{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    padding-left:122px;
+    text-align: center;
+
+}
+.card__text{
+    padding-left: 122px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: lightgrey;
+
+}
+.img{
+    width: 610px;
+    height: 40px;
+    padding-left: 110px;
+
+}
